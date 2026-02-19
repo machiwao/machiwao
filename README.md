@@ -71,7 +71,7 @@ Beyond technical work, I actively contribute to **student developer and tech com
 
 ## 🎯 Career Goals
 
-My long-term goal is to grow into a **Machine Learning / Data Scientist or AI Engineer** who builds reliable, ethical, and high-impact AI systems—particularly in domains related to public services, sustainability, and digital transformation.
+My long-term goal is to grow into a **Machine Learning / Data Scientist or AI Engineer** who builds reliable, ethical, and high-impact AI systems, particularly in domains related to public services, sustainability, and digital transformation.
 
 ---
 
