@@ -1,3 +1,90 @@
+# 👋 Hi, I’m Blix Foryasen
+
+Machine Learning • Data Science • Applied AI  
+BS Computer Science (Machine Learning) @ National University – Manila  
+DOST–SEI RA 7687 Scholar
+
+I’m a machine learning and data science practitioner focused on building data-driven and socially relevant systems.  
+My interests sit at the intersection of **applied ML, analytics, and AI for public impact**, with strong curiosity in how modern AI (especially generative and data-centric systems) can be responsibly deployed in real-world environments.
+
+---
+
+## 🔍 What I’m interested in
+
+- Applied Machine Learning and Data Science  
+- Generative AI, RAG systems, and LLM evaluation  
+- Time-series and forecasting models  
+- Unsupervised learning and behavioral segmentation  
+- Explainable and decision-oriented analytics  
+- Technology for social good and public-sector applications
+
+---
+
+## 🛠️ Technical Stack
+
+**Languages**
+- Python, SQL, NoSQL
+
+**Machine Learning & AI**
+- Supervised & Unsupervised Learning  
+- Deep Learning (CNNs, classical and neural models)  
+- NLP and text classification  
+- Feature engineering and dimensionality reduction  
+- Model optimization and evaluation
+
+**Tools & Frameworks**
+- PyTorch, TensorFlow
+- Jupyter Notebook, Google Colab
+- Git, GitHub
+- AWS SageMaker
+
+**Data & Analytics**
+- Data wrangling and validation
+- Exploratory data analysis
+- Statistical analysis
+- Time-series analysis
+- Data visualization
+
+---
+
+## 🧠 Current Focus
+
+- Bridging research ideas into reproducible and scalable ML pipelines  
+- Designing experiments and evaluation workflows for ML and LLM-based systems  
+- Building interpretable analytics for decision-making and policy-oriented use cases  
+- Keeping up with emerging trends in AI, data platforms, and applied ML engineering
+
+---
+
+## 🌱 Background
+
+I am currently pursuing a **BS in Computer Science (Machine Learning)** and have worked on projects involving:
+- forecasting and spatio-temporal modeling,
+- household and socioeconomic clustering,
+- sentiment analysis,
+- computer vision,
+- and lightweight LLM fine-tuning and evaluation workflows.
+
+Beyond technical work, I actively contribute to **student developer and tech communities**, helping organize learning activities and innovation-driven events focused on sustainability and social impact.
+
+---
+
+## 🎯 Career Goals
+
+My long-term goal is to grow into a **Machine Learning / Data Scientist or AI Engineer** who builds reliable, ethical, and high-impact AI systems—particularly in domains related to public services, sustainability, and digital transformation.
+
+---
+
+## 📫 Let’s connect
+
+- GitHub: https://github.com/machiwao  
+- Email: foryasenbd@students.national-u.edu.ph  
+
+Always open to:
+- collaboration on ML and data projects,
+- research-oriented initiatives,
+- and internships focused on applied AI and analytics.
+
 <h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
