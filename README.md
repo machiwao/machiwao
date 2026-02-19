@@ -2,7 +2,6 @@
 
 Machine Learning • Data Science • Applied AI  
 BS Computer Science (Machine Learning) @ National University – Manila  
-DOST–SEI RA 7687 Scholar
 
 I’m a machine learning and data science practitioner focused on building data-driven and socially relevant systems.  
 My interests sit at the intersection of **applied ML, analytics, and AI for public impact**, with strong curiosity in how modern AI (especially generative and data-centric systems) can be responsibly deployed in real-world environments.
