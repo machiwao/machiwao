@@ -23,7 +23,7 @@ Beyond technical work, I actively contribute to **student developer and tech com
 
 ## 🔍 What I’m interested in
 
-- Applied Machine Learning and Data Science  
+- Applied AI and Data Science  
 - Generative AI, RAG systems, and LLM evaluation  
 - Time-series and forecasting models  
 - Unsupervised learning and behavioral segmentation  
